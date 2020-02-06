@@ -1,0 +1,372 @@
+{
+    "version": "4.3.6.2",
+    "groups": [
+        {
+            "id": 1,
+            "title": "Spcemacs Calendar / Capture",
+            "iconColor": "hsla(275, 100%, 50%, 1)",
+            "iconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACt0lEQVQ4jZ2T20/ScRjGv93217TW1kXrL2i5Lhp2WtZPwCxJDHUm4IFMQsRANDXQjMQDKaVD8lT+XJ6WrON+oKSF50zFuun200Wy5rIuerbn7n0+z7u9e4UQQuzsbDuSyS2SyS3E/ygV3NnerNnc+MLG2gqBB9N03J/A55bx2AdxWZ5iM3bE/wkK+iP0PX5LKPiOtc+fCPojdHon8dXKzL39iKO0G0v+w/237GmbIRR8z1A4xsjQHEPhGIuxWXraZmhvHKfZMczXuWUqi/wYdU17IZ3eSeKxJQZCCvLoArL8ywOhKANP3tDpnaTV+YLvq1+w5LVgzvWQp3ayB5B+XEcyubUbnkeWFxjsj9Lb9ZrRUIRW5wt+fNvEZuzArPdyQ7MLAA60N40TbJvh1BE1qWuMPo8T7v3Ak/YIHfcnSCgK48Ov2ZhdxvR7gwOiyfYMn1umq2WKk4ck0g5nEu79wPb2Jl/X11hfWmRlfp7FWJSEovBteZ1iXRO5Ug2Z6RaE+1Yv3uohHtWPcfroFdKP5RBsm6Hn0SsCLVNsrK6wlvjMcjxOQlH4sbNFYXY9ORlVSKpyhN0c6K673YenepCHrlG0J0xkp5Xgb3iJzy3TXDPCPWs/q58WWJqdJaEo5KmdZJ2vRFJZuoQQQthNXbgsT2mw9qNXWTGcq8JjH6TRFqauog9HaTeVRX5K9F4Wo1HumJp/tadUbniA9aYfuzlAwUUHRZedOMwBHCWPsRk7qSj0YdZ7Kcyu5/rlaiJj03sBQghhuu6h9EYLhZKTIk0txdo6LPmtlOQ1U5zTSH6WG92larRnK/4MCyGEQeNqMOu9GKS7FKhdFGhquXntHsZcD7lSDVcv2lCfuYWkKkdSlTX89R9yMuwYstzoLtm5llHFlQtWNLut+zbvJ6227GAqkLJWW3Zwv9mfpM0g50ZsivgAAAAASUVORK5CYII=",
+            "iconViewType": null,
+            "tabs": [
+                {
+                    "url": "https://cestlaz.github.io/posts/using-emacs-26-gcal/#.WIqBud9vGAk",
+                    "title": "Using Emacs - 26 - Google Calendar, Org Agenda"
+                },
+                {
+                    "url": "https://orgmode.org/worg/org-tutorials/org-google-sync.html",
+                    "title": "Google Calendar Synchronization"
+                },
+                {
+                    "url": "http://doc.norang.ca/org-mode.html#HowToUseThisDocument",
+                    "title": "Org Mode - Organize Your Life In Plain Text!"
+                },
+                {
+                    "url": "http://www.howardism.org/Technical/Emacs/capturing-intro.html",
+                    "title": "Org Capturing Introduction"
+                },
+                {
+                    "url": "http://joaotavora.github.io/yasnippet/snippet-organization.html",
+                    "title": "Organizing snippets"
+                },
+                {
+                    "url": "https://orgmode.org/manual/Templates-in-contexts.html#Templates-in-contexts",
+                    "title": "Templates in contexts (The Org Manual)"
+                },
+                {
+                    "url": "https://orgmode.org/worg/org-tutorials/org-google-sync.html",
+                    "title": "Google Calendar Synchronization"
+                },
+                {
+                    "url": "https://www.youtube.com/watch?v=IofHvutUWV0&list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE&index=3",
+                    "title": "OrgMode E01S03: Schedule, deadlines & agenda views - YouTube"
+                },
+                {
+                    "url": "https://www.reddit.com/r/emacs/comments/5qd8co/best_method_for_orgmode_google_calendar/",
+                    "title": "Best method for orgmode Google calendar integration? : emacs"
+                }
+            ],
+            "catchTabRules": "",
+            "catchTabContainers": [],
+            "newTabContainer": null,
+            "ifNotDefaultContainerReOpenInNew": true,
+            "isSticky": false,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "dontDiscardTabsAfterHideThisGroup": false
+        },
+        {
+            "id": 47,
+            "title": "Spcemacs Org babel",
+            "iconColor": "#9900ff",
+            "iconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACt0lEQVQ4jZ2T20/ScRjGv93217TW1kXrL2i5Lhp2WtZPwCxJDHUm4IFMQsRANDXQjMQDKaVD8lT+XJ6WrON+oKSF50zFuun200Wy5rIuerbn7n0+z7u9e4UQQuzsbDuSyS2SyS3E/ygV3NnerNnc+MLG2gqBB9N03J/A55bx2AdxWZ5iM3bE/wkK+iP0PX5LKPiOtc+fCPojdHon8dXKzL39iKO0G0v+w/237GmbIRR8z1A4xsjQHEPhGIuxWXraZmhvHKfZMczXuWUqi/wYdU17IZ3eSeKxJQZCCvLoArL8ywOhKANP3tDpnaTV+YLvq1+w5LVgzvWQp3ayB5B+XEcyubUbnkeWFxjsj9Lb9ZrRUIRW5wt+fNvEZuzArPdyQ7MLAA60N40TbJvh1BE1qWuMPo8T7v3Ak/YIHfcnSCgK48Ov2ZhdxvR7gwOiyfYMn1umq2WKk4ck0g5nEu79wPb2Jl/X11hfWmRlfp7FWJSEovBteZ1iXRO5Ug2Z6RaE+1Yv3uohHtWPcfroFdKP5RBsm6Hn0SsCLVNsrK6wlvjMcjxOQlH4sbNFYXY9ORlVSKpyhN0c6K673YenepCHrlG0J0xkp5Xgb3iJzy3TXDPCPWs/q58WWJqdJaEo5KmdZJ2vRFJZuoQQQthNXbgsT2mw9qNXWTGcq8JjH6TRFqauog9HaTeVRX5K9F4Wo1HumJp/tadUbniA9aYfuzlAwUUHRZedOMwBHCWPsRk7qSj0YdZ7Kcyu5/rlaiJj03sBQghhuu6h9EYLhZKTIk0txdo6LPmtlOQ1U5zTSH6WG92larRnK/4MCyGEQeNqMOu9GKS7FKhdFGhquXntHsZcD7lSDVcv2lCfuYWkKkdSlTX89R9yMuwYstzoLtm5llHFlQtWNLut+zbvJ6227GAqkLJWW3Zwv9mfpM0g50ZsivgAAAAASUVORK5CYII=",
+            "iconViewType": null,
+            "tabs": [
+                {
+                    "url": "https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-sql.html",
+                    "title": "SQL Source Code Blocks in Org Mode"
+                }
+            ],
+            "catchTabRules": "",
+            "catchTabContainers": [],
+            "newTabContainer": null,
+            "ifNotDefaultContainerReOpenInNew": true,
+            "isSticky": false,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "dontDiscardTabsAfterHideThisGroup": false
+        },
+        {
+            "id": 48,
+            "title": "Spcemacs Misc",
+            "iconColor": "hsla(279, 100%, 50%, 1)",
+            "iconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACt0lEQVQ4jZ2T20/ScRjGv93217TW1kXrL2i5Lhp2WtZPwCxJDHUm4IFMQsRANDXQjMQDKaVD8lT+XJ6WrON+oKSF50zFuun200Wy5rIuerbn7n0+z7u9e4UQQuzsbDuSyS2SyS3E/ygV3NnerNnc+MLG2gqBB9N03J/A55bx2AdxWZ5iM3bE/wkK+iP0PX5LKPiOtc+fCPojdHon8dXKzL39iKO0G0v+w/237GmbIRR8z1A4xsjQHEPhGIuxWXraZmhvHKfZMczXuWUqi/wYdU17IZ3eSeKxJQZCCvLoArL8ywOhKANP3tDpnaTV+YLvq1+w5LVgzvWQp3ayB5B+XEcyubUbnkeWFxjsj9Lb9ZrRUIRW5wt+fNvEZuzArPdyQ7MLAA60N40TbJvh1BE1qWuMPo8T7v3Ak/YIHfcnSCgK48Ov2ZhdxvR7gwOiyfYMn1umq2WKk4ck0g5nEu79wPb2Jl/X11hfWmRlfp7FWJSEovBteZ1iXRO5Ug2Z6RaE+1Yv3uohHtWPcfroFdKP5RBsm6Hn0SsCLVNsrK6wlvjMcjxOQlH4sbNFYXY9ORlVSKpyhN0c6K673YenepCHrlG0J0xkp5Xgb3iJzy3TXDPCPWs/q58WWJqdJaEo5KmdZJ2vRFJZuoQQQthNXbgsT2mw9qNXWTGcq8JjH6TRFqauog9HaTeVRX5K9F4Wo1HumJp/tadUbniA9aYfuzlAwUUHRZedOMwBHCWPsRk7qSj0YdZ7Kcyu5/rlaiJj03sBQghhuu6h9EYLhZKTIk0txdo6LPmtlOQ1U5zTSH6WG92larRnK/4MCyGEQeNqMOu9GKS7FKhdFGhquXntHsZcD7lSDVcv2lCfuYWkKkdSlTX89R9yMuwYstzoLtm5llHFlQtWNLut+zbvJ6227GAqkLJWW3Zwv9mfpM0g50ZsivgAAAAASUVORK5CYII=",
+            "iconViewType": null,
+            "tabs": [
+                {
+                    "url": "https://github.com/syl20bnr/spacemacs/tree/develop/layers/%2Bdistributions/spacemacs-docker",
+                    "title": "spacemacs/layers/+distributions/spacemacs-docker at develop · syl20bnr/spacemacs"
+                },
+                {
+                    "url": "https://stackoverflow.com/questions/38220526/how-to-kill-a-process-within-spacemacs",
+                    "title": "emacs - How to kill a process within spacemacs - Stack Overflow"
+                },
+                {
+                    "url": "https://www.reddit.com/r/spacemacs/comments/ezrxpe/how_to_toggle_off_visual_mode_in_interactive/",
+                    "title": "How to toggle off visual mode in interactive function call? : spacemacs"
+                },
+                {
+                    "url": "https://emacs.stackexchange.com/questions/55342/spacemacs-evil-mode-how-to-toggle-off-visual-mode-in-interactive-function-call",
+                    "title": "Spacemacs evil-mode : How to toggle off visual mode in interactive function call? - Emacs Stack Exchange"
+                }
+            ],
+            "catchTabRules": "",
+            "catchTabContainers": [],
+            "newTabContainer": null,
+            "ifNotDefaultContainerReOpenInNew": true,
+            "isSticky": false,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "dontDiscardTabsAfterHideThisGroup": false
+        },
+        {
+            "id": 2,
+            "title": "These",
+            "iconColor": "hsla(63, 100%, 50%, 1)",
+            "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPg0KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgdmlld0JveD0iMCAwIDUwOS4yODcgNTA5LjI4NyIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNTA5LjI4NyA1MDkuMjg3OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8Y2lyY2xlIHN0eWxlPSJmaWxsOiM2RUIxRTE7IiBjeD0iMjU0LjY0NCIgY3k9IjI1NC42NDQiIHI9IjI1NC42NDQiLz4NCjxnPg0KCQ0KCQk8ZWxsaXBzZSB0cmFuc2Zvcm09Im1hdHJpeCgtMC4yMTY1IC0wLjk3NjMgMC45NzYzIC0wLjIxNjUgMzAuMzU1NyA0MTQuMjg0NykiIHN0eWxlPSJmaWxsOiNGMEJBN0E7IiBjeD0iMTgxLjQxNyIgY3k9IjE5NC45NjIiIHJ4PSIzMS44NzMiIHJ5PSIxMy45MDIiLz4NCgkNCgkJPGVsbGlwc2UgdHJhbnNmb3JtPSJtYXRyaXgoLTAuMjE2NSAwLjk3NjMgLTAuOTc2MyAtMC4yMTY1IDU4OS4xNDg0IC04My4xNTA0KSIgc3R5bGU9ImZpbGw6I0YwQkE3QTsiIGN4PSIzMjcuOTQiIGN5PSIxOTQuODMyIiByeD0iMzEuODczIiByeT0iMTMuOTAyIi8+DQoJPHBvbHlnb24gc3R5bGU9ImZpbGw6I0YwQkE3QTsiIHBvaW50cz0iMzE0Ljk5OSwzMzUuMDA0IDE5NC4yODksMzM1LjAwNCAyMDIuNzY2LDIzNS45OTUgMzA2LjUyMiwyMzUuOTk1IAkiLz4NCjwvZz4NCjxyZWN0IHg9IjIyMC4zOTciIHk9IjMxOC43MjgiIHN0eWxlPSJmaWxsOiNFM0UzRTU7IiB3aWR0aD0iNjguODMyIiBoZWlnaHQ9IjExMy45MjgiLz4NCjxwb2x5Z29uIHN0eWxlPSJmaWxsOiMzNzQ2ODk7IiBwb2ludHM9IjI2MS43NjQsMzE4LjcyOCAyNDcuNTIzLDMxOC43MjggMjM0LjI5OSwzMzguNzM0IDI0Ni4xNjcsMzUwLjYwMSAyNjMuMTIxLDM1MC42MDEgDQoJMjc0Ljk4OCwzMzguNzM0ICIvPg0KPHBvbHlnb24gc3R5bGU9ImZpbGw6IzRCNUFBNzsiIHBvaW50cz0iMjQ2LjE2NywzNTAuNjAxIDIzNC4yOTksNDAxLjEyMyAyNTQuNjQ0LDQyMS40NjggMjc0Ljk4OCw0MDEuMTIzIDI2My4xMjEsMzUwLjYwMSAiLz4NCjxyZWN0IHg9IjEzMi4yMzgiIHk9Ijg2LjQ2NCIgc3R5bGU9ImZpbGw6I0Y4QjUxNzsiIHdpZHRoPSI1Ljc2NCIgaGVpZ2h0PSI2MC42OTQiLz4NCjxnPg0KCTxjaXJjbGUgc3R5bGU9ImZpbGw6I0ZCRDMwMzsiIGN4PSIxMzUuMjkiIGN5PSIxMjkuNTI2IiByPSI4LjgxNiIvPg0KCTxwYXRoIHN0eWxlPSJmaWxsOiNGQkQzMDM7IiBkPSJNMTM1LjI5LDE0NS40NjJMMTM1LjI5LDE0NS40NjJjLTUuNzY0LDAtMTAuNTExLDQuNzQ3LTEwLjUxMSwxMC41MTF2ODguNDk4aDIxLjAyM3YtODguNDk4DQoJCUMxNDUuODAxLDE1MC4yMDksMTQxLjA1NCwxNDUuNDYyLDEzNS4yOSwxNDUuNDYyeiIvPg0KPC9nPg0KPHBvbHlnb24gc3R5bGU9ImZpbGw6IzMzMzg0MjsiIHBvaW50cz0iMjU1LjY2MSwzNC41ODUgMTA5LjUyMSw4Mi43MzQgMjU1LjY2MSwxMzAuNTQzIDQwMS44MDEsODIuNzM0ICIvPg0KPGVsbGlwc2Ugc3R5bGU9ImZpbGw6I0Y3Q0ZBMjsiIGN4PSIyNTQuNjQ0IiBjeT0iMTkwLjg5OCIgcng9IjcyLjIyMyIgcnk9Ijk2LjYzNiIvPg0KPGc+DQoJPHBhdGggc3R5bGU9ImZpbGw6IzMzMzg0MjsiIGQ9Ik0zMTIuOTY0LDEyNi44MTNsMy43Myw3My4yNGg5LjE1NWMwLDAsMi43MTMtMjIuNzE4LDE1LjI1OC0yNy44MDRjMCwwLTIuMDM0LTMxLjE5NS0xMC4xNzItNDAuNjg5DQoJCUMzMjMuNDc1LDEyMS43MjcsMzEyLjk2NCwxMjYuODEzLDMxMi45NjQsMTI2LjgxM3oiLz4NCgk8cGF0aCBzdHlsZT0iZmlsbDojMzMzODQyOyIgZD0iTTE5Ni4zMjMsMTI2LjgxM2wtNC4wNjksNzMuMjRoLTkuMTU1YzAsMC0yLjM3NC0yMi43MTgtMTUuMjU4LTI3LjgwNA0KCQljMCwwLDIuMDM0LTMxLjE5NSwxMC4xNzItNDAuNjg5QzE4Ni4xNTEsMTIxLjcyNywxOTYuMzIzLDEyNi44MTMsMTk2LjMyMywxMjYuODEzeiIvPg0KPC9nPg0KPHBhdGggc3R5bGU9ImZpbGw6IzNENDU1MDsiIGQ9Ik0yNTUuNjYxLDY4LjQ5M2MtNTguOTk5LDAtODAuMzYsMjAuMDA1LTgwLjM2LDIwLjAwNXY1Ni4yODZjMzYuOTU5LTEyLjU0Niw4MC4zNiw0LjA2OSw4MC4zNiw0LjA2OQ0KCXM0My40MDEtMTYuNjE1LDgwLjM2LTQuMDY5Vjg4LjQ5OEMzMzYuMDIxLDg4LjQ5OCwzMTQuNjYsNjguNDkzLDI1NS42NjEsNjguNDkzeiIvPg0KPHBvbHlnb24gc3R5bGU9ImZpbGw6I0YzRjRGOTsiIHBvaW50cz0iMTk3LjAwMSwyNzkuMzk2IDI1NC42NDQsMzE4LjcyOCAyMzIuMjY1LDM2NC41MDMgMTg0LjQ1NiwyOTMuOTc2ICIvPg0KPHBhdGggc3R5bGU9ImZpbGw6IzJBMzIzNTsiIGQ9Ik0xMTkuMzU0LDMzMi42M2MtNDAuMzUtMTEuMTg5LTYzLjc0NiwyMC42ODMtNzYuOTcsNjIuNzI4DQoJYzQ1LjQzNiw2OC44MzIsMTIzLjc2MiwxMTMuOTI4LDIxMi4yNiwxMTMuOTI4YzIuMzc0LDAsNC40MDgsMCw2Ljc4MSwwYzAtMTguMzEsMC00Mi4zODQsMC02OS44NDkNCgljMC02MC4wMTYtNzYuNjMtMTQ1LjQ2Mi03Ni42My0xNDUuNDYyTDExOS4zNTQsMzMyLjYzeiIvPg0KPHBvbHlnb24gc3R5bGU9ImZpbGw6I0YzRjRGOTsiIHBvaW50cz0iMzEyLjI4NiwyNzkuMzk2IDI1NC42NDQsMzE4LjcyOCAyNzcuMDIyLDM2NC41MDMgMzI0LjgzMiwyOTMuOTc2ICIvPg0KPHBhdGggc3R5bGU9ImZpbGw6IzJBMzIzNTsiIGQ9Ik0zODkuOTM0LDMzMi42M2wtNjUuMTAyLTM4LjY1NGMwLDAtNzYuNjMsODUuNDQ2LTc2LjYzLDE0NS40NjJjMCwyNy40NjUsMCw1MS41MzksMCw2OS44NDkNCgljMi4zNzQsMCw0LjQwOCwwLDYuNzgxLDBjODguNDk4LDAsMTY2LjQ4NS00NS40MzYsMjEyLjI2LTExMy45MjhDNDUzLjM0LDM1Mi45NzUsNDMwLjI4MywzMjEuMTAyLDM4OS45MzQsMzMyLjYzeiIvPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPC9zdmc+DQo=",
+            "iconViewType": null,
+            "tabs": [
+                {
+                    "url": "https://docs.timescale.com/latest/getting-started/setup",
+                    "title": "TimescaleDB Docs | Setting up TimescaleDB"
+                },
+                {
+                    "url": "https://docs.timescale.com/latest/getting-started/migrating-data#import-data",
+                    "title": "TimescaleDB Docs | Migrating Data import-data"
+                },
+                {
+                    "url": "https://github.com/timescale/timescaledb-tune",
+                    "title": "timescale/timescaledb-tune: A tool for tuning TimescaleDB for better performance by adjusting settings to match your system's CPU and memory resources."
+                },
+                {
+                    "url": "https://stackoverflow.com/questions/13792254/removing-packages-installed-with-go-get",
+                    "title": "Removing packages installed with go get - Stack Overflow"
+                },
+                {
+                    "url": "https://blog.timescale.com/blog/timescaledb-vs-6a696248104e/",
+                    "title": "TimescaleDB vs. PostgreSQL for time-series: 20x higher inserts, 2000x faster deletes, 1.2x-14,000x faster queries"
+                },
+                {
+                    "url": "https://www.google.com/search?q=thesis+phd+icon&client=ubuntu&hs=yL7&channel=fs&sxsrf=ACYBGNRYc-2pZsZARXTnX-vtCi_-KZiCcQ:1581004085268&tbm=isch&source=iu&ictx=1&fir=_TkoanCe05h3VM%253A%252C3PMlNzc1EyHc0M%252C_&vet=1&usg=AI4_-kTIbsXBoxcQaIhAAmneUyrVlqNKtg&sa=X&ved=2ahUKEwjn-o-Xo73nAhU7DWMBHT2oATQQ9QEwA3oECAcQCQ#imgrc=O1A9jXEnaygd0M",
+                    "title": "thesis phd icon – Recherche Google"
+                },
+                {
+                    "url": "https://www.google.com/search?q=phd+icon+96&client=ubuntu&hs=fO7&channel=fs&sxsrf=ACYBGNSP9FYkrH7FhodZkqeIgbCUyeELKQ:1581004252553&tbm=isch&source=iu&ictx=1&fir=wXSWWH3g4TXK-M%253A%252CH0ditn6fj-KNjM%252C_&vet=1&usg=AI4_-kQwJNevcgtp-6jgbJvfIvDLCWp9Fg&sa=X&ved=2ahUKEwixovLmo73nAhXXBWMBHce4ASUQ9QEwA3oECAoQCw#imgrc=_bcMsqaSLEZ60M",
+                    "title": "phd icon 96 – Recherche Google"
+                },
+                {
+                    "url": "https://www.seekpng.com/ipng/u2t4t4o0y3e6y3y3_graduation-cap1-facebook-messenger-round-icon/",
+                    "title": "Graduation Cap1 - Facebook Messenger Round Icon PNG Image | Transparent PNG Free Download on SeekPNG"
+                },
+                {
+                    "url": "https://www.google.com/search?q=phd+icon&client=ubuntu&hs=GR7&channel=fs&sxsrf=ACYBGNQ_l0ltafuDpa4C7-XuCoc6XWV4yQ:1581004413951&tbm=isch&source=iu&ictx=1&fir=C793ti6grtD9eM%253A%252CuiwFRo821vTnqM%252C_&vet=1&usg=AI4_-kQ89iCCRdHQo934tHRU6rRvUiPCMA&sa=X&ved=2ahUKEwiUhe2zpL3nAhV95-AKHffkDCEQ9QEwCnoECAoQGA#imgrc=xOXJvKgxSYjt4M",
+                    "title": "phd icon – Recherche Google"
+                },
+                {
+                    "url": "https://www.flaticon.com/free-icon/graduate_201799",
+                    "title": "Graduate - Free education icons"
+                },
+                {
+                    "url": "https://pngimage.net/phd-icon-png-4/",
+                    "title": "Phd icon png 4 » PNG Image"
+                },
+                {
+                    "url": "https://pngimage.net/wp-content/uploads/2018/06/phd-icon-png-4.png",
+                    "title": "phd-icon-png-4.png (PNG Image, 200 × 200 pixels)"
+                },
+                {
+                    "url": "https://www.google.com/search?q=biostatistics+icon&client=ubuntu&hs=com&channel=fs&sxsrf=ACYBGNTnGCL0emmFumjs1zYSelq5Ilg16g:1581004578475&tbm=isch&source=iu&ictx=1&fir=ymb2-ufmtIdu_M%253A%252CxzFr5hJLqzMUrM%252C_&vet=1&usg=AI4_-kS4opboR5ramFmgV9nl9pdDD65QrA&sa=X&ved=2ahUKEwjN9qaCpb3nAhUImBQKHYNOC0IQ9QEwBXoECAgQDg#imgrc=8El5IHMZMMbLtM",
+                    "title": "biostatistics icon – Recherche Google"
+                },
+                {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Fisher_iris_versicolor_sepalwidth.svg",
+                    "title": "upload.wikimedia.org/wikipedia/commons/4/40/Fisher_iris_versicolor_sepalwidth.svg"
+                }
+            ],
+            "catchTabRules": "",
+            "catchTabContainers": [],
+            "newTabContainer": null,
+            "ifNotDefaultContainerReOpenInNew": true,
+            "isSticky": false,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "dontDiscardTabsAfterHideThisGroup": false
+        },
+        {
+            "id": 3,
+            "title": "Statistics reading",
+            "iconColor": "hsla(32, 100%, 50%, 1)",
+            "iconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAP0lEQVQ4jWNgwANs2o/+t2k/+h+fGrwa0THZGgkaRKxGrAaRqxluyKgBVDYAGdDPBRQnJKokZaplJlwG4VMDAFEo6a/8+ZEWAAAAAElFTkSuQmCC",
+            "iconViewType": null,
+            "tabs": [
+                {
+                    "url": "https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b",
+                    "title": "Statistics for people in a hurry - Towards Data Science"
+                },
+                {
+                    "url": "about:newtab",
+                    "title": "New Tab"
+                }
+            ],
+            "catchTabRules": "",
+            "catchTabContainers": [],
+            "newTabContainer": null,
+            "ifNotDefaultContainerReOpenInNew": true,
+            "isSticky": false,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "dontDiscardTabsAfterHideThisGroup": false
+        },
+        {
+            "id": 45,
+            "title": "Thèse Margaux Riant",
+            "iconColor": "hsla(242, 100%, 50%, 1)",
+            "iconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABAElEQVQ4jY2TsQ6CMBCGu/gCDqUhjEQSNcSlxrjS0cEXgJHR8BrUtyB9z98BDq+1VUkI6eXu/+++HkIET9/3GyGE2KrDnmJFcaxTedEgnAGcgcwqSFWBzj+LZfZOhjOQqkIslnQebifAGYzlBc9Wzx0sAtTNcDshWgxnYDsNOAPb6ncRdTA1XifeKErtzuRsW72+JEBnLpDnx+vaRcolhEgxTA1kxlhQceiSghjeiiBnEkiNYFuNZ6d9AX599P0Gked+QAxHWQUYm7G8fELkHEKXEKLtNDA18WWiRbpf65nBApGP8ggXiS+ER3y5qlgsWuyNw0bhEFPG0eBWlX/9zi8CrH0dnsR2LwAAAABJRU5ErkJggg==",
+            "iconViewType": null,
+            "tabs": [
+                {
+                    "url": "https://radimrehurek.com/gensim/auto_examples/tutorials/run_word2vec.html#sphx-glr-auto-examples-tutorials-run-word2vec-py",
+                    "title": "gensim: Word2Vec Model"
+                },
+                {
+                    "url": "https://www.hetop.eu/hetop/#rr=CI9_CO_491&oti=T_DESC_CIM9CODE&q=491",
+                    "title": "HeTOP"
+                },
+                {
+                    "url": "http://www.icd9data.com/2012/Volume1/460-519/490-496/default.htm",
+                    "title": "2012 ICD-9-CM Codes 490-496 : Chronic Obstructive Pulmonary Disease And Allied Conditions"
+                },
+                {
+                    "url": "https://www.ncbi.nlm.nih.gov/pubmed/30999919",
+                    "title": "Identifying clinically important COPD sub-types using data-driven approaches in primary care population based electronic health records. - PubMed - NCBI"
+                },
+                {
+                    "url": "file:///home/ulys/Nextcloud/Public-health/CHU-Lille/Poste-AHU/Encadrement/Th%C3%A8se%20Margaux%20Riant/notes.html",
+                    "title": "‎"
+                },
+                {
+                    "url": "https://fr.wikipedia.org/wiki/Algorithme_t-SNE",
+                    "title": "Algorithme t-SNE — Wikipédia"
+                },
+                {
+                    "url": "https://drive.google.com/drive/u/0/folders/1tFqvJKiDKPjZBeSpXphR943vxSb-BGIN",
+                    "title": "Working help - Google Drive"
+                },
+                {
+                    "url": "https://www.google.com/search?q=machine+learning++color&tbm=isch&ved=2ahUKEwjbm4Xlpb3nAhUVNxoKHbykA7EQ2-cCegQIABAA&oq=machine+learning++color&gs_l=img.3..0i19.6200.8067..8182...0.0..0.72.999.17......0....1..gws-wiz-img.......0j0i7i30j0i7i30i19j0i10i19j0i8i7i30j0i8i30.pwaGclHqMss&ei=8Tc8XpvfIJXuaLzJjogL&client=ubuntu&hs=PCS#imgrc=_qQ9jmPg09FyGM",
+                    "title": "machine learning color – Recherche Google"
+                },
+                {
+                    "url": "https://www.iconfinder.com/icons/4099938/ai_artificial_brain_digital_intelligence_learning_machine_icon",
+                    "title": "Ai, artificial, brain, digital, intelligence, learning, machine icon"
+                }
+            ],
+            "catchTabRules": "",
+            "catchTabContainers": [],
+            "newTabContainer": null,
+            "ifNotDefaultContainerReOpenInNew": true,
+            "isSticky": false,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "dontDiscardTabsAfterHideThisGroup": false
+        },
+        {
+            "id": 49,
+            "title": "Not working misc",
+            "iconColor": "hsla(208, 100%, 50%, 1)",
+            "iconUrl": null,
+            "iconViewType": "old-tab-groups",
+            "tabs": [
+                {
+                    "url": "https://github.com/pietrodito/firefox-setup",
+                    "title": "pietrodito/firefox-setup"
+                }
+            ],
+            "catchTabRules": "",
+            "catchTabContainers": [],
+            "newTabContainer": null,
+            "ifNotDefaultContainerReOpenInNew": true,
+            "isSticky": false,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "dontDiscardTabsAfterHideThisGroup": false
+        }
+    ],
+    "lastCreatedGroupPosition": 49,
+    "discardTabsAfterHide": false,
+    "closePopupAfterChangeGroup": true,
+    "openGroupAfterChange": true,
+    "prependGroupTitleToWindowTitle": false,
+    "createNewGroupWhenOpenNewWindow": true,
+    "showNotificationAfterMoveTab": true,
+    "openManageGroupsInTab": true,
+    "showConfirmDialogBeforeGroupDelete": true,
+    "showNotificationAfterGroupDelete": true,
+    "showContextMenuOnTabs": true,
+    "showContextMenuOnLinks": true,
+    "exportGroupToMainBookmarkFolder": true,
+    "defaultBookmarksParent": "toolbar_____",
+    "showExtendGroupsPopupWithActiveTabs": true,
+    "showTabsWithThumbnailsInManageGroups": false,
+    "defaultGroupIconViewType": "old-tab-groups",
+    "defaultGroupIconColor": "",
+    "autoBackupEnable": true,
+    "autoBackupLastBackupTimeStamp": 1580998901,
+    "autoBackupIntervalKey": "days",
+    "autoBackupIntervalValue": 1,
+    "autoBackupIncludeTabThumbnails": true,
+    "autoBackupIncludeTabFavIcons": true,
+    "autoBackupGroupsToBookmarks": true,
+    "autoBackupGroupsToFile": true,
+    "autoBackupFolderName": "STG-backups-linux-20200107212822",
+    "autoBackupBookmarksFolderName": "STG bookmarks",
+    "enableDarkTheme": true,
+    "hotkeys": [
+        {
+            "ctrlKey": true,
+            "shiftKey": false,
+            "altKey": false,
+            "metaKey": false,
+            "key": "`",
+            "keyCode": 192,
+            "action": "load-next-group",
+            "groupId": 0
+        },
+        {
+            "ctrlKey": true,
+            "shiftKey": true,
+            "altKey": false,
+            "metaKey": false,
+            "key": "`",
+            "keyCode": 192,
+            "action": "load-prev-group",
+            "groupId": 0
+        },
+        {
+            "ctrlKey": true,
+            "shiftKey": true,
+            "altKey": false,
+            "metaKey": false,
+            "key": "G",
+            "keyCode": 71,
+            "action": "open-manage-groups",
+            "groupId": 0
+        }
+    ],
+    "pinnedTabs": [
+        {
+            "url": "https://mail.google.com/mail/u/0/#inbox",
+            "title": "Inbox (959) - pietrodito@gmail.com - Gmail",
+            "cookieStoreId": "firefox-default",
+            "isInReaderMode": false
+        },
+        {
+            "url": "https://calendar.google.com/calendar/r?pli=1",
+            "title": "Google Agenda - Début prévu le jeudi, 6 février 2020",
+            "cookieStoreId": "firefox-default",
+            "isInReaderMode": false
+        },
+        {
+            "url": "https://web.whatsapp.com/",
+            "title": "WhatsApp",
+            "cookieStoreId": "firefox-default",
+            "isInReaderMode": false
+        },
+        {
+            "url": "https://messages.google.com/web/conversations/2",
+            "title": "Messages for web",
+            "cookieStoreId": "firefox-default",
+            "isInReaderMode": false
+        }
+    ],
+    "containers": {}
+}
